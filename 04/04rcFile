@@ -1,0 +1,18 @@
+#!/bin/bash
+# 融易网络[SEasy.Wang] &  XnClouds Network Studio
+# WebSite: https://wwww.xnclouds.top/
+# IBM Bluemix & Virtual Servers Management
+# [IBMid] eysir@bk.ru [PASWD] qwaszx123
+# Host Mumber -  XnCloud.04 (XNSET06)
+# 
+export OS_PROJECT_ID=0eda67f494a546478450477592e86c83
+export OS_USERNAME=eysir@bk.ru
+export OS_USER_DOMAIN_NAME=1056125
+export OS_AUTH_URL=https://lon-identity.open.softlayer.com/v3
+export OS_IDENTITY_API_VERSION=3
+export OS_REGION_NAME=londonhost number
+export OS_PASSWORD=qwaszx123
+echo " Welcome  SEasy.Wang - [XnClouds] "
+echo " Data network support : IBM Bluemix "
+echo " XnClouds.04 This IBM Cloud Public  "
+echo " The node Configuration is Successful "
